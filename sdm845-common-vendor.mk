@@ -839,3 +839,6 @@ PRODUCT_PACKAGES += \
     TimeService \
     WfdCommon \
     chargeonlymode
+
+PRODUCT_SOONG_NAMESPACES += \
+    vendor/xiaomi/sdm845-common
